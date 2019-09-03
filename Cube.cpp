@@ -12,7 +12,7 @@ Cube::Cube(double aSide) : side {aSide}
 
 double Cube::volume()
 {
-    return aSide * aSide * aSide;
+    return side * side * side;
 }
 
 bool Cube::hasLargerVolumeThan(Cube aCube)
