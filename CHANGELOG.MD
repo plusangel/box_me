@@ -1,5 +1,8 @@
 # Changelog for box experiments
 
+## 0.0.4 (03-09-2019)
+Attempt to enable travis CI (#2)
+
 ## 0.0.3 (03-09-2019)
 Attempt to enable travis CI (#1)
 
